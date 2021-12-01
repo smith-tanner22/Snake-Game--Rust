@@ -7,7 +7,7 @@ This snake game is very simple, you start as a red dot and as you eat the black 
 Below is a demonstration of the program.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iAPsrSNbFvk)
 
 # Development Environment
 
